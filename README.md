@@ -1,2 +1,2 @@
-# DifferenceListBasics
-This is a small Prolog code repository mainly around difference list.
+# PrologBasics
+This is a small Prolog code repository with basic useful Prolog predicates.
